@@ -19,7 +19,11 @@ No current link.
 Venus is a program that takes a csv file as input and vizulises the data from it.
 
 ## Screenshots
-No current screenshots.
+
+
+![design 1](design.png)
+![frontpage_example 2](frontpage_example.png)
+
 
 ## Technologies
 We used `html`, `css`, `js` and `React`
@@ -30,15 +34,3 @@ We used `html`, `css`, `js` and `React`
 - run `npm start`
 - goto http://localhost:3000 on your favorite browser
 
-## Approach
-TBA
-
-## Status
-Venus is still in progress. `Alpha v1.0` will be out soon.
-
-## Credits
-List of contriubutors:
-- [Rikard Johansson](https://github.com/ItsRkaj)
-
-## License
-TBA
